@@ -1,0 +1,11 @@
+D:\source\Self_Learning\net_core_demo\Reactivities\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\source\Self_Learning\net_core_demo\Reactivities\Domain\bin\Debug\net8.0\Domain.dll
+D:\source\Self_Learning\net_core_demo\Reactivities\Domain\bin\Debug\net8.0\Domain.pdb
+D:\source\Self_Learning\net_core_demo\Reactivities\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Self_Learning\net_core_demo\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\source\Self_Learning\net_core_demo\Reactivities\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\source\Self_Learning\net_core_demo\Reactivities\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\source\Self_Learning\net_core_demo\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
+D:\source\Self_Learning\net_core_demo\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\source\Self_Learning\net_core_demo\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
+D:\source\Self_Learning\net_core_demo\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll

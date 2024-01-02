@@ -1,0 +1,15 @@
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\bin\Debug\net8.0\Domain.dll
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CopyComplete
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\source\Self_Learning\net_core_demo\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
